@@ -1,0 +1,85 @@
+
+************private**************
+	database 
+	farmer
+		-add product
+			-fruit
+			-veg
+			-grain
+		-sell product
+		-product details
+		-warehouse
+		
+	agent/dealer
+		-add product
+			-fruits
+			-veg
+			-grain
+		-sell product
+		-warehouse
+		
+	reatiler
+		-buy
+		-sell
+		-warehouse
+		
+	warehouse
+		
+		
+***********public pds**********
+	farmer
+		-buy
+		-sell
+		-details
+		-warehouse
+		
+	agent
+		-buy
+		-sell
+		-warehouse
+	gov body
+		-buy
+		-forward(sell)
+	loc ration shop
+		-buy
+		-sell
+	customer
+		
+	
+	
+*************fpus***********
+	database
+		 
+	farmer
+	fpus
+	warehouse
+	
+
+
+
+
+meet
+-static file with images and css
+
+
+satyam
+-pds database
+-er diagram
+
+
+shubham
+-final link
+-database connectivity
+-database mai  entries bharo
+-
+
+
+gauri
+-oral presentation
+
+vikarm
+-
+
+
+om
+-
